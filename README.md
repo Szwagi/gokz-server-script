@@ -7,4 +7,4 @@ It can also symlink game folders to the server, which is useful for mapping.
 4. Everything will be set up and the server will launch
 5. Every time you want to start the server, start it with the script as well, it will keep updating everything.
 
-*Installing to directories that need admin privileges (like Program Files) is untested.* 
+*\*Installing to directories that need admin privileges (like Program Files) is untested.* 
