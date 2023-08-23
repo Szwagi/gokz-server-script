@@ -19,7 +19,7 @@ $startMap = ""
 
 # =======================================
 
-$ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Inquire"
 $global:ProgressPreference = "SilentlyContinue"
 
 # You can remove this 'if' block after you've ran it for the first time, so you don't get the UAC prompts every time.
